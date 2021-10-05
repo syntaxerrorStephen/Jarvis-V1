@@ -1,3 +1,6 @@
+# Made by Stephen Flynn
+# Ensure to have Google Speech Recognition module installed before running
+
 import webbrowser
 import string
 import speech_recognition as sr
